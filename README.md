@@ -1,19 +1,24 @@
-📝 Summary This is a simple yet powerful Calculator App built entirely with Jetpack Compose and structured using the MVVM architecture. It uses ViewModel and LiveData to manage UI state, and integrates the Rhino JavaScript engine to evaluate mathematical expressions dynamically. The app demonstrates clean architecture, responsive UI design, and modern Android development best practices.
 📱 Jetpack Compose Calculator App
-A modern and fully functional calculator built with Jetpack Compose, following MVVM architecture using ViewModel and LiveData. This app supports basic arithmetic operations with real-time expression evaluation powered by the Rhino JavaScript engine.
+A sleek, modern calculator app built entirely with Jetpack Compose and structured using the MVVM architecture. It features real-time expression evaluation using the Rhino JavaScript engine, clean UI design, and responsive layouts, all powered by Android’s modern development tools.
 
 ✨ Features
-🧮 Real-time equation input and result preview
+🧮 Real-Time Expression Evaluation
+Instantly compute and preview results as users type.
 
-🔄 Live updates with LiveData and ViewModel
+🔄 Reactive State Management
+Built using ViewModel and LiveData for seamless UI updates.
 
-⚡ Expression parsing using Rhino JavaScript engine
+⚡ Dynamic Expression Parsing
+Powered by Rhino (org.mozilla.javascript) for accurate expression evaluation.
 
-🎨 Clean UI using Jetpack Compose and Material 3
+🎨 Material 3 UI with Jetpack Compose
+Clean and modern UI design using the latest Material components.
 
-📱 Responsive layout using LazyVerticalGrid
+📱 Responsive Layout
+Adapts beautifully across screen sizes using LazyVerticalGrid.
 
-🧠 Follows MVVM architecture pattern
+🧠 MVVM Architecture
+Follows best practices for maintainable, scalable code.
 
 🛠 Tech Stack
 Kotlin
@@ -24,6 +29,11 @@ Android ViewModel
 
 LiveData
 
-Rhino (org.mozilla.javascript)
+Rhino (JavaScript Engine)
 
-Material 3 Components
+Material 3
+
+🎬 Demo & APK
+📹 Screen Recording
+
+📦 Download APK
